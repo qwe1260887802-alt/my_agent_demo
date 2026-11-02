@@ -1,0 +1,4 @@
+.andromity/
+__pycache__/
+.env
+venv/
